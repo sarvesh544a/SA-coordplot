@@ -1,6 +1,5 @@
 package com.kodeco.android.coordplot
 
-import android.text.Layout
 import android.view.animation.OvershootInterpolator
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
@@ -15,7 +14,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.scale
 import androidx.compose.ui.res.painterResource
 import androidx.navigation.NavController
-import com.kodeco.android.coordplot.R
 import kotlinx.coroutines.delay
 
 @Composable
